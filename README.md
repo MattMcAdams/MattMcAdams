@@ -2,10 +2,6 @@
 
 I'm a designer, web developer, and creative problem solver working in Birmingham AL.
 
-**I'm looking for new opportunities in web design / web development / ux design. <br>
-Learn more at [mattmcadams.com](https://www.mattmcadams.com/).**
-
-- I'm currently working on [UAB-IT/linear](https://github.com/UAB-IT/linear), a CSS framework for UAB IT web projects
 - I use daily: `.html`, `.scss`, `.js`, `.vue`, `.php`, `.xd`, `.ai`, `.psd`, `.svg`
 - I'm most active in the CSS community
 - Learning about [React.js](https://reactjs.org/)
