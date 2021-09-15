@@ -9,7 +9,6 @@ I'm a designer who codes from a small town in Alabama. After getting a BFA in de
 | UA Wilson | University of Alabama's institutional web framework | Closed Source |
 | UA Harper | University of Alabama's new WordPress theme | Closed Source |
 | [CSS Boilerplate](https://github.com/MattMcAdams/CSS-Boilerplate) | My own starter CSS | [![Release](https://img.shields.io/badge/release-WIP-yellow)](https://github.com/MattMcAdams/CSS-Boilerplate) |
-| [Stratus](https://github.com/MattMcAdams/stratus) | SCSS toolkit for design systems | [![Release](https://img.shields.io/github/v/release/mattmcadams/stratus?include_prereleases)](https://github.com/MattMcAdams/stratus/releases) |
 | New Tab Page | My little new tab page extension | Closed Source |
 | [Website](https://mattmcadams.com/) | My personal website, protfolio, and blog | [![Netlify Status](https://api.netlify.com/api/v1/badges/bcba8992-8a26-4144-9365-1377709d6420/deploy-status)](https://app.netlify.com/sites/mattmcadams/deploys) |
 
