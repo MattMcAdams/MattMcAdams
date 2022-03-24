@@ -10,7 +10,7 @@ I'm a designer who codes from a small town in Alabama. After getting a BFA in de
 | UA Harper | University of Alabama's new WordPress theme | Closed Source |
 | [CSS Boilerplate](https://github.com/MattMcAdams/CSS-Boilerplate) | My own starter CSS | [![Release](https://img.shields.io/badge/release-WIP-yellow)](https://github.com/MattMcAdams/CSS-Boilerplate) |
 | [Repo Template](https://github.com/MattMcAdams/Template) | A little repo template to make the most of github's features | Maintained |
-| [New Tab Page](https://github.com/MattMcAdams/new-tab) | My little new tab page extension | WIP |
+| [New Tab Page](https://github.com/MattMcAdams/new-tab) | My little new tab page extension | [![Release](https://img.shields.io/badge/release-WIP-yellow)](https://github.com/MattMcAdams/new-tab) |
 | [Website](https://mattmcadams.com/) | My personal website, protfolio, and blog | [![Netlify Status](https://api.netlify.com/api/v1/badges/bcba8992-8a26-4144-9365-1377709d6420/deploy-status)](https://app.netlify.com/sites/mattmcadams/deploys) |
 
 ### Contact
