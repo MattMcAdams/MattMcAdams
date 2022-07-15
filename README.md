@@ -6,10 +6,7 @@ I'm a designer who codes from a small town in Alabama. After getting a BFA in de
 
 | Name | Description |
 | ---- | ----------- |
-| [Horizon](https://shadowdragon.io/horizon/) | Browser-based OSINT link analysis |
-| [OI Monitor](https://shadowdragon.io/oimonitor/) | Open source intelligence monitoring and alerting |
 | [CSS Boilerplate](https://github.com/MattMcAdams/CSS-Boilerplate) | My own starter CSS |
-| [Repo Template](https://github.com/MattMcAdams/Template) | A little repo template to make the most of github's features |
 | [New Tab Page](https://github.com/MattMcAdams/new-tab) | My little new tab page extension |
 | [Website](https://mattmcadams.com/) | My personal website, protfolio, and blog |
 
