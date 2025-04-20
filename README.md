@@ -6,7 +6,7 @@ I'm a designer who codes from a small town in Alabama. After getting a BFA in de
 
 Feel free to reach out to me at mattmcadams@outlook.com or on social media
 
-[Personal Website](https://mattmcadams.com), [Twitter](https://twitter.com/mattmakesart), [Instagram](https://www.instagram.com/mattmcadams/), [Behance](https://www.behance.net/mattmcadams), [Dribbble](https://dribbble.com/mattmcadams), [LinkedIn](https://www.linkedin.com/in/mcadamsmatthew/)
+[Personal Website](https://mattmcadams.com) | [Bluesky](https://bsky.app/profile/mattmcadams.com)
 
 <!--```
    __                      __
