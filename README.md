@@ -30,7 +30,7 @@ Feel free to reach out to me at mattmcadams@outlook.com or on social media
   `--'   `--'
 ```-->
 
-```
+<!--```
                                                     =
                                                  ?0==0                         =?00?00?=
              ?000000?=                          ?0  ??                       =?0?     =00
@@ -78,4 +78,4 @@ Feel free to reach out to me at mattmcadams@outlook.com or on social media
                       ?0= =?000000??=                    ====?=         ?????0000
                      ==      =???????=                    =?=         =????????00=
                                 =?????=                     ==       =?????????=00
-```
+```-->
