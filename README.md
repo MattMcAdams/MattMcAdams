@@ -1,4 +1,5 @@
-![MattMcAdams's GitHub Banner](https://raw.githubusercontent.com/MattMcAdams/MattMcAdams/main/banner.png)
+
+<img width="2560" height="640" alt="MattMcAdams-readme-banner" src="https://github.com/user-attachments/assets/9d2d2ec3-25a5-4710-aefa-083b64bdd0eb" />
 
 ## Hi there 👋
 
