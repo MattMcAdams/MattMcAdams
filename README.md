@@ -1,6 +1,4 @@
 
-<img width="2560" height="640" alt="MattMcAdams-readme-banner" src="https://github.com/user-attachments/assets/9d2d2ec3-25a5-4710-aefa-083b64bdd0eb" />
-
 ## Hi there 👋
 
 I'm a designer who codes from a small town in Alabama. After getting a BFA in design and working as a self-taught front-end dev, I now work professionally as a Senior UX Designer and Developer. Aside from the skills directly related to web design and development, I'm also interested in bookmaking, print making, and drawing. When I'm not working I play RPG video games, read fantasy books, and tend to my houseplants.
